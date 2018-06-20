@@ -1,4 +1,4 @@
-# TicTacToe
+# Tic-Tac-Trivia
 
 A revised iOS version of the classic Tic-Tac-Toe game which sports trivia questions at each move.
 
